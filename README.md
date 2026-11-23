@@ -2,7 +2,9 @@
 
 Exploration of unemployment trends across regions and urban/rural areas.
 
-## Contents
+## Project files and local data inputs
+
+Data files listed below are local inputs, not bundled public downloads. See `PUBLIC_DATA_SETUP.md`.
 
 - `Unemployment in India.ipynb`
 - `Unemployment in India.csv`
